@@ -1,0 +1,11 @@
+*{box-sizing:border-box;margin:0;padding:0;font-family:Inter, system-ui, Arial, sans-serif}
+body{background:linear-gradient(180deg,#e0f7ff,#f7fbff);display:flex;align-items:center;justify-content:center;height:100vh}
+.app{width:320px;text-align:center}
+h1{font-size:1.1rem;margin-bottom:12px;color:#064663}
+.card{background:#ffffff;border-radius:12px;padding:20px;box-shadow:0 6px 20px rgba(6,70,99,0.12)}
+.location{font-weight:600;color:#034f63}
+.temp{font-size:48px;font-weight:700;margin:8px 0;color:#ff6b35}
+.desc{color:#3b5a63;margin-bottom:12px}
+#refresh{background:#064663;color:#fff;border:none;padding:8px 14px;border-radius:8px;cursor:pointer}
+#refresh:hover{opacity:.95}
+small{display:block;margin-top:10px;color:#6b7b81}
